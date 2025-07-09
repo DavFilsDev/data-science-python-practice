@@ -58,7 +58,7 @@ data-science-python-practice/
 ├── numpy/                   # NumPy exercises (arrays, operations, etc.)
 │   ├── numpy_intro.py
 │   ├── numpy_array_operations.py
-│   ├── ...
+│   ├── numpy_indexing.py
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project instructions
 ```
