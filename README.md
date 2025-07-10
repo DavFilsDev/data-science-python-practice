@@ -56,9 +56,14 @@ python numpy/numpy_intro.py
 ```plaintext
 data-science-python-practice/
 ├── numpy/                   # NumPy exercises (arrays, operations, etc.)
-│   ├── numpy_intro.py
 │   ├── numpy_array_operations.py
+│   ├── numpy_broadcasting.py
 │   ├── numpy_indexing.py
+│   ├── numpy_intro.py
+│   ├── numpy_linear_algebra.py
+│   ├── numpy_random.py
+│   ├── numpy_reshape.py
+│   └── numpy_statistics.py
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project instructions
 ```
