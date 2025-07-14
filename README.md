@@ -55,15 +55,8 @@ python numpy/numpy_intro.py
 
 ```plaintext
 data-science-python-practice/
-├── numpy/                   # NumPy exercises (arrays, operations, etc.)
-│   ├── numpy_array_operations.py
-│   ├── numpy_broadcasting.py
-│   ├── numpy_indexing.py
-│   ├── numpy_intro.py
-│   ├── numpy_linear_algebra.py
-│   ├── numpy_random.py
-│   ├── numpy_reshape.py
-│   └── numpy_statistics.py
+├── numpy/
+├── pandas/
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project instructions
 ```
@@ -73,7 +66,7 @@ data-science-python-practice/
 ## 🛠️ Topics Covered
 
 * NumPy: Arrays, math operations, random numbers, linear algebra
-* \[Coming Soon] Pandas: Data manipulation
+* Pandas: Data manipulation
 * \[Coming Soon] Matplotlib & Seaborn: Data visualization
 * \[Coming Soon] Scikit-learn: Machine learning basics
 * \[Coming Soon] Mini-projects on real datasets
