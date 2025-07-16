@@ -57,6 +57,7 @@ python numpy/numpy_intro.py
 data-science-python-practice/
 ├── numpy/
 ├── pandas/
+├── matplotlib/
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project instructions
 ```
